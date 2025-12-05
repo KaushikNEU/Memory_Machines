@@ -1,0 +1,5 @@
+{"event": "election_1860", "event_name": "Election Night 1860", "strategy": "cot", "runs": [80, 85, 80, 70, 85], "mean": 80.0, "min": 70, "max": 85, "std": 5.477225575051661, "coefficient_of_variation": 0.06846531968814576}
+{"event": "fort_sumter", "event_name": "Fort Sumter Decision", "strategy": "cot", "runs": [75, 75, 75, 75, 85], "mean": 77.0, "min": 75, "max": 85, "std": 4.0, "coefficient_of_variation": 0.05194805194805195}
+{"event": "gettysburg_address", "event_name": "Gettysburg Address", "strategy": "cot", "runs": [95, 95, 95, 95, 95], "mean": 95.0, "min": 95, "max": 95, "std": 0.0, "coefficient_of_variation": 0.0}
+{"event": "second_inaugural", "event_name": "Second Inaugural Address", "strategy": "cot", "runs": [95, 90, 90, 95, 90], "mean": 92.0, "min": 90, "max": 95, "std": 2.449489742783178, "coefficient_of_variation": 0.026624888508512804}
+{"event": "fords_theatre", "event_name": "Ford's Theatre Assassination", "strategy": "cot", "runs": [90, 90, 85, 90, 85], "mean": 88.0, "min": 85, "max": 90, "std": 2.449489742783178, "coefficient_of_variation": 0.027835110713445202}

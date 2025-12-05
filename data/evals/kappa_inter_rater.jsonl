@@ -1,0 +1,1 @@
+{"events": ["election_1860", "fort_sumter", "gettysburg_address", "second_inaugural", "fords_theatre"], "category_labels": {"zero_shot": ["high", "high", "high", "high", "high"], "cot": ["high", "high", "high", "high", "high"], "few_shot": ["high", "high", "high", "high", "high"]}, "kappa": {"zero_vs_cot": 1.0, "zero_vs_few": 1.0, "cot_vs_few": 1.0}}

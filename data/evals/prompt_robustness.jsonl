@@ -1,0 +1,15 @@
+{"event": "election_1860", "event_name": "Election Night 1860", "strategy": "zero_shot", "overall_consistency": 85}
+{"event": "election_1860", "event_name": "Election Night 1860", "strategy": "cot", "overall_consistency": 85}
+{"event": "election_1860", "event_name": "Election Night 1860", "strategy": "few_shot", "overall_consistency": 85}
+{"event": "fort_sumter", "event_name": "Fort Sumter Decision", "strategy": "zero_shot", "overall_consistency": 85}
+{"event": "fort_sumter", "event_name": "Fort Sumter Decision", "strategy": "cot", "overall_consistency": 85}
+{"event": "fort_sumter", "event_name": "Fort Sumter Decision", "strategy": "few_shot", "overall_consistency": 85}
+{"event": "gettysburg_address", "event_name": "Gettysburg Address", "strategy": "zero_shot", "overall_consistency": 95}
+{"event": "gettysburg_address", "event_name": "Gettysburg Address", "strategy": "cot", "overall_consistency": 95}
+{"event": "gettysburg_address", "event_name": "Gettysburg Address", "strategy": "few_shot", "overall_consistency": 90}
+{"event": "second_inaugural", "event_name": "Second Inaugural Address", "strategy": "zero_shot", "overall_consistency": 85}
+{"event": "second_inaugural", "event_name": "Second Inaugural Address", "strategy": "cot", "overall_consistency": 90}
+{"event": "second_inaugural", "event_name": "Second Inaugural Address", "strategy": "few_shot", "overall_consistency": 90}
+{"event": "fords_theatre", "event_name": "Ford's Theatre Assassination", "strategy": "zero_shot", "overall_consistency": 95}
+{"event": "fords_theatre", "event_name": "Ford's Theatre Assassination", "strategy": "cot", "overall_consistency": 95}
+{"event": "fords_theatre", "event_name": "Ford's Theatre Assassination", "strategy": "few_shot", "overall_consistency": 90}
