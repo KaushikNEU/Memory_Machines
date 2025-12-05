@@ -1,8 +1,6 @@
 🧠 **Memory Machines Technical Assessment — Full LLM Evaluation Pipeline**
 ==========================================================================
 
-### **INFO 7390 — Art and Science of Data**
-
 ### **Author: Kaushik Jayaprakash**
 
 ### **Video: https://youtu.be/2Ozx_BFjWfE**
